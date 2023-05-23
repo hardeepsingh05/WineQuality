@@ -27,3 +27,12 @@ dvc add data _given/winequality.csv
 git add .
 
 git commit -m "first commit"
+
+git update for ReadMe
+
+$ git remote add origin https://github.com/hardeepsingh05/WineQuality.git
+
+git branch -m main 
+
+git push origin main 
+
